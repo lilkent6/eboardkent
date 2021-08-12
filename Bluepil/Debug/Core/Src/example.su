@@ -1,0 +1,2 @@
+example.c:6:13:error	8	static
+example.c:16:6:example	128	static
